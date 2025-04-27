@@ -1,0 +1,23 @@
+.txtsz {
+    font-size: 55px;
+}
+.pera {
+    color: #ffffff;
+    background-color: gray;
+    border-radius: 4px;
+    border-width: 1px;
+    width: 160px;
+    padding: auto;
+}
+
+.gap {
+    margin-top: 40px;
+}
+
+.con-gap {
+    margin: 0px 0px 40px 40px;
+}
+
+.mrg {
+    margin: 20px 20px 20px 20px;
+}
